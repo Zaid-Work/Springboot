@@ -3,6 +3,12 @@ package com.RestApp.springboot.demo.myapp;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//@SpringBootApplication(
+//		scanBasePackages = {
+//				"com.RestApp.springboot.demo.myapp",
+//				"com.RestApp.springboot.demo.utils",
+//		}
+//)
 @SpringBootApplication
 public class MyappApplication {
 
